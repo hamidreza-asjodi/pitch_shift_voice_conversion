@@ -1,3 +1,10 @@
 # pitch_shift_voice_conversion
-Voice conversion Algorithm using librosa pitch shift in a realtime structure.
-Pitch shif is one of the easiest and convient way of deidentification and conversion of speech. This is a process to altering the fundamental frequency of input speech and fundamental frequency corresponds to the rate at which the vocal folds vibrate during speech production. Here in a real-time process, we change the pitch of the input speech in the short segments and play them in default device of your system.    
+Voice conversion algorithm using librosa pitch shift in a realtime structure.
+Pitch shift is one of the easiest and convient way of deidentification and conversion of speech. This is a process to altering the fundamental frequency of input speech and fundamental frequency corresponds to the rate at which the vocal folds vibrate during speech production.
+| input speech | reduction of pitch(3 semitone)    | increase of pitch(3 semitone)    |
+| :---:   | :---: | :---: |
+|         |       |    |
+
+
+Here in a real-time process, we change the pitch of the input speech in the short segments and play them in default device of your system.   
+
