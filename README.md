@@ -7,3 +7,9 @@ Pitch shift is one of the easiest and convient way of deidentification and conve
 Here in a real-time process, we change the pitch of the input speech in the short segments and play them in default device of your system.   
 
 ![gh](https://github.com/hamidreza-asjodi/pitch_shift_voice_conversion/assets/77886755/52cb29c5-22a3-46d1-be08-296d7467be50)
+
+## Usage
+After install requirements of project just needs to run following command:
+```
+python pitch_shift.py 
+```
