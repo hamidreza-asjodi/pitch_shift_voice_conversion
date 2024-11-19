@@ -1,3 +1,4 @@
+PySimpleGUI
 librosa
 pyaudio
 wmi
